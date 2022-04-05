@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram.csproj", "{AFFFEBF5-E7B4-4FAC-8CD1-F7C63A5318AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFFEBF5-E7B4-4FAC-8CD1-F7C63A5318AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFFEBF5-E7B4-4FAC-8CD1-F7C63A5318AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFFEBF5-E7B4-4FAC-8CD1-F7C63A5318AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFFEBF5-E7B4-4FAC-8CD1-F7C63A5318AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56DF470-A4E5-45FA-BFA9-6706204311B7}
+	EndGlobalSection
+EndGlobal
